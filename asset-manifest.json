@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/shirt/static/js/main.31bfaba1.js",
+    "index.html": "/shirt/index.html",
+    "main.31bfaba1.js.map": "/shirt/static/js/main.31bfaba1.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.31bfaba1.js"
+  ]
+}
